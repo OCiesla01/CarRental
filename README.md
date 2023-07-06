@@ -6,4 +6,4 @@ There are several features implemented for both sides.
 
 Instruction is available to read in the Instruction file.
 
-More information about classes is included in UML Diagram.
+More information about classes is included in UML Diagram called "PPZO - diagram UML".
