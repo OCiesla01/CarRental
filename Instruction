@@ -1,0 +1,40 @@
+Podstawy Programowania Zorientowane Obiektowo
+projekt zaliczeniowy 2022/2023
+Akademia WSB, Dąbrowa Górnicza
+
+
+Zamodelować i zaprogramować z wykorzystaniem mechanizmów dziedziczenia oraz polimorfizmu:
+1. Bazę pojazdów rejestrowanych na stacji kontroli (SKP);
+2. Obsługę klientów banku za pomocą różnych technik (dowód osobisty, karta płatnicza, BLIK);
+3. Policyjną bazę skradzionych dokumentów (dowód osobisty, paszport, prawo jazdy);
+4. Wypożyczalnię książek, filmów oraz albumów muzycznych: zbiory tradycyjne i dostęp on-line;
+5. Grę komputerową (np. planszowe, karciane, RPG);
+6. System rezerwacji biletów podróżnych (autobus, pociąg, samolot);
+7. System zarządzania budynkiem – inteligentny dom.
+
+Powyższe tematy są przykładowymi propozycjami, więc można zaproponować własne zagadnienie.
+
+Wymagania podstawowe: Program powinien posiadać przynajmniej takie funkcjonalności, jak:
+• Dodawanie obiektu;
+• Aktualizacja obiektu;
+• Wyszukiwanie obiektu,
+• Usuwanie obiektu.
+
+Do przechowywania danych w pamięci RAM należy wykorzystać zwykłą tablicę lub kolekcje dostępne
+w API użytego języka programowania. Nie należy korzystać z bazy danych; ewentualnie pisać do pliku.
+
+Wymagania dodatkowe:
+• Język programowania: C++, Java, C#;
+• Interfejs użytkownika: konsola lub system okienkowy;
+• Projekt musi zostać udokumentowany w formie sprawozdania (format PDF), które powinno
+się składać z następujących części:
+• Wstęp (podstawowe informacje dot. podjętego problemu);
+• Opis projektu (instrukcja instalacji, uruchomienia oraz obsługi aplikacji, analiza wybranych
+fragmentów kodu);
+• Podsumowanie i wnioski końcowe;
+• Załączniki (kod źródłowy projektu, diagram klas - UML).
+
+Informacje dodatkowe:
+Zespół projektowy: 1 lub 2 osoby (lista zrealizowanych zadań w przypadku dwóch osób)
+Ocena: projekt (35 p.) + prezentacja (15 p.) = 50 p.
+Ostateczny termin: 30.06.2023 r
